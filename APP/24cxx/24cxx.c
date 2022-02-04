@@ -11,6 +11,7 @@ void AT24CXX_Init(void)
 {
 	IIC_Init();//IIC初始化
 }
+add new line;
 
 /*******************************************************************************
 * 函 数 名         : AT24CXX_ReadOneByte
